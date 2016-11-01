@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# jumpstart_blogger
+odin project jumpstart lab blogger project
+>>>>>>> 5b204c22a0dbd9586acca084aad4dbede5426101
